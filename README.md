@@ -27,4 +27,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 # alpha_blog
 blog
 >>>>>>> 5dce9f695840e66eed8ce8d04c912f1fedae77f0
-XD
+XDDt
