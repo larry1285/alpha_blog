@@ -9,7 +9,7 @@
 
 
 Welcome to your Rails project on Cloud9 IDE!
-
+ 
 To get started, just do the following:
 
 1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
@@ -27,3 +27,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 # alpha_blog
 blog
 >>>>>>> 5dce9f695840e66eed8ce8d04c912f1fedae77f0
+XD
