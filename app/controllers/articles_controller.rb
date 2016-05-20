@@ -1,4 +1,8 @@
 class ArticlesController < ApplicationController #has to be camelcase
+
+  def index
+     @articles=Article.all
+  end
   def new
       @article=Article.new
   end
